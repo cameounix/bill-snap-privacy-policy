@@ -15,7 +15,6 @@ Bill Snap is an **offline-first** expense tracker and bill scanning Android appl
 - 💰 Track expenses with 19+ built-in categories plus custom categories
 - 📊 View analytics, monthly trends, and category breakdowns
 - 🎯 Set monthly category budgets with overspend alerts
-- 🔔 Manage payment reminders for borrow/lend entries
 - 📦 Backup, restore, and export data as PDF or Excel
 
 ---
@@ -36,7 +35,6 @@ When you scan or upload a bill, the app may process:
 - Categories (built-in or custom)
 - Payment methods (cash / card / online)
 - Bill totals and final amounts
-- Borrow/Lend reminder entries (person, amount, due date, notes)
 - Monthly category budgets
 
 ### ⚙️ App Settings (stored locally)
@@ -84,7 +82,7 @@ We do **not** operate any cloud server. We do **not** synchronise your data acro
 ## 📦 Backup & Restore
 
 The app allows you to:
-- Create a local backup file containing all bills, categories, reminders, and budgets
+- Create a local backup file containing all bills, categories, and budgets
 - Restore data from a backup file
 - Transfer data between your own devices using a backup file
 
@@ -138,7 +136,7 @@ If you have questions, concerns, or requests regarding this Privacy Policy or yo
 
 ## ✅ Summary
 
-- 🏠 **Your data stays on your device** — bills, items, reminders, and budgets are stored locally
+- 🏠 **Your data stays on your device** — bills, items, and budgets are stored locally
 - 🚫 **No cloud account required** — we don't operate servers and don't collect your financial data
 - 🤖 **AI is optional** — you bring your own Anthropic API key, or use the offline rule-based parser
 - 📦 **You control your backups** — create, share, or delete backup files at your discretion
